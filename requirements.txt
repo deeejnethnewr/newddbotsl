@@ -1,3 +1,4 @@
-pyrogram
-requests
-yt-dlp
+pyrogram==2.0.106
+tgcrypto
+python-dotenv
+gdown
